@@ -4,4 +4,4 @@
 
 About Myself.
 
-[Link](https://edition.cnn.com/)
+[CNN Homepage](https://edition.cnn.com/)
