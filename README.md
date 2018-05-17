@@ -4,6 +4,6 @@
 
 About Myself.
 
-[USMA](https://www.usma.edu/)
+[USMA Homepage](https://www.usma.edu/)
 
 ![Image](2006CrestColor-shadow.jpg)
